@@ -1,0 +1,18 @@
+section p {
+    position: relative;
+    top: 80px;
+    color: blue;
+    font-size: 22px;
+}
+
+section p:hover {
+    color: red;
+    font-size: 22px;
+}
+
+.nav-link:hover {
+    background-color: blue;
+    font-weight: bold;
+    font-size: 110%;
+    opacity: 0.7;
+}
